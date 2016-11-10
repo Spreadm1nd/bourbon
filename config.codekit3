@@ -9,11 +9,23 @@
 	],
 "creatorBuild": "25444",
 "files": {
-	"\/README.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/README.txt",
-		"oF": 0
+	"\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/Template\/public\/sass\/frameworks\/_bourbon-deprecated-upcoming.scss": {
 		"aP": 0,
@@ -1311,6 +1323,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/Template\/public\/sass\/frameworks\/css\/_visual-grid.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/Template\/public\/sass\/main.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/Template\/public\/css\/main.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
